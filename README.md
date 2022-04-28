@@ -1,59 +1,70 @@
-# QuotesApp
+# Quote Generator
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.1.
-##### By Caleb Mutuku
-## Table of Content
+Application where users can create quotes and have those quotes voted on whether they are terrible or are inspirational.
 
-+ [Description](#description)
-+ [Installation Requirement](#Installation)
-+ [Technology Used](#technology-used)
-+ [Reference](#reference)
-+ [Licence](#licence)
-+ [Authors Info](#author-Info)
+## Development server
 
-## Description
-<p>An application where users can create quotes and have those quotes voted on whether they are terrible or are inspirational.</p>
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
-## Installation
+## Technology used
+* HTML   - for structure of the web page and it's content.
 
-### Requirements
+* CSS  -   for defining the styles of the web pages.
 
-* Either a computer,phone,tablet or an Ipad
-
-* An access to the Internet
-
-### Installation Process
-
-[Go Back to the top](#portfolio)
-## Technology Used
-* Angular-To develop the single-page application
-
-* HTML - which was used to build the structure of the pages.
-
-* CSS - which was used to style the pages
-
-* Javascipt- to make the web more interactive
-
-* Boostrap - for Responsiveness
+* Typscript - for dynamic webpages
 
 
-## Reference
-* Materialize CSS
+* Angular 
 
-[Go Back to the top](#portfolio)
+## Code scaffolding
 
-## Licence
+Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-[MIT](LICENSE)
+## Build
+
+Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+
+## Running unit tests
+
+Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+
+## Running end-to-end tests
+
+Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+
+## Further help
+
+To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 
 
-[Go Back to the top](#portfolio)
+## License
 
-## Authors Info
-Linked - Caleb Kabaya(hhttps://www.linkedin.com/in/caleb-kabaya-167676195/)
+[MIT](https://choosealicense.com/licenses/mit/)
 
-Email - (calebkabaya7@gmail.com)
+MIT License
 
-[Go Back to the top](#portfolio)
+Copyright (c) [2022] [Ali Mohamud]
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
 
 
+## Author info
+Slack  - [Ali Mohamud ]
+
+(https://moringaclassroom.slack.com/archives/C02TTF7MR8D)
